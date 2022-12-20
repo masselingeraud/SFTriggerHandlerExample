@@ -1,5 +1,5 @@
 # SFTriggerHandlerExample
-## YOU ACN FIND THE CREATOR OF THIS FRAMEWORK HERE : https://github.com/kevinohara80/sfdc-trigger-framework
+# YOU CAN FIND THE CREATOR OF THIS FRAMEWORK HERE : https://github.com/kevinohara80/sfdc-trigger-framework
 
 ## Overview
 
